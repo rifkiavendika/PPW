@@ -5,5 +5,4 @@ nltk
 sastrawi
 scikit-learn
 gensim
-bs4
-beautifulsoup4
+beautifulsoup4==4.9.3

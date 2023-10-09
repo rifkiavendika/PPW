@@ -5,3 +5,4 @@ nltk
 sastrawi
 scikit-learn
 gensim
+bs4

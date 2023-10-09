@@ -1,0 +1,7 @@
+Proporsi Topik
+
+dokumen ke 0 di domunasi oleh topik 8 dengan nilai kontribusi sebesar berikut
+
+proporsi kata 
+
+proporsi kata pada topik ke 0 sebanyak numwords, disini numwords nya = 10

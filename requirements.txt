@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+nltk
+sastrawi
+scikit-learn
+gensim

@@ -6,3 +6,4 @@ sastrawi
 scikit-learn
 gensim
 bs4
+BeautifulSoup4

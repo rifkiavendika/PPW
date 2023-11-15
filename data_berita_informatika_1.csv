@@ -1,0 +1,56 @@
+Judul,Penulis,Pembimbing 1,Pembimbing 2,Abstrak
+"PERANCANGAN DAN IMPLEMENTASI SISTEM DATABASE 
+TERDISTRIBUSI MENGGUNAKAN ORACLE STUDI KASUS 
+SIAKAD UNIVERSITAS TRUNOJOYO",Penulis : A.Ubaidillah S.Kom,Dosen Pembimbing I : Budi Setyono M.T,Dosen Pembimbing II :Hermawan S.T,"Sistem  informasi  akademik  (SIAKAD) merupakan  sistem  informasi  yang  berfungsi  menangani pengelolaan  dan  penyajian  data-data  akademik,  yang  oleh pihak  fakultas  SIAKAD  dianggap  sangat  penting  dalam memberikan  pelayanan  mahasiswa  yang  membutuhkan informasi akademik. Di Universitas Trunojoyo telah tersedia SIAKAD,  namun  masih  menggunakan  database  terpusat. Sistem seperti ini memberikan kelebihan yaitu perawatannya mudah  selain  itu  juga  membutuhkan  sedikit  biaya,  namun sistem  tersebut  juga  berpotensi  mengahadapi  kendala-kendala  yaitu  dalam  proses  transaksi  data  karena  padatnya jaringan yang menuju database SIAKAD, kelambatan dalam pemrosesan  respon  query  dikarenakan  data  yang  tersimpan semakin besar dan pemrosesan semakin kompleks, dan  juga memiliki kelemahan dalam hal ketersediaan data. Untuk  itu sistem  seperti  ini  memerlukan  pengembangan  sistem database  yang  lebih  baik  dengan  menggunakan  sistem databases  terdistribusi  pada  masing-masing  fakultas  yang dapat  dijadikan  solusi  bagi  permasalahan  di  atas.  Karena dalam basisdata terdistribusi terdapat keuntungan yang tidak dimiliki oleh basisdata  terpusat yaitu pengawasan distribusi, reability,  availability,  kecepatan  dalam  pemrosesan  query dan otonomi local"
+APLIKASI KONTROL DAN MONITORING JARINGAN KOMPUTER BERBASIS MOBILE,"Penulis : M. Basith Ardianto,","Dosen Pembimbing I : Drs. Budi Soesilo, MT","Dosen Pembimbing II :Koko Joni, ST","Berjalannya koneksi jaringan komputer dengan lancar dan tanpa gangguan merupakan harapan seluruh penggunanya,
+terutama pihak yang bertanggung jawab pada bidang itu, yakni administrator jaringan. Namun tidak selamanya koneksi
+jaringan dapat berjalan dengan lancar tanpa adanya gangguan. Kenyataan di lapangan terutama pada jaringan komputer skala
+besar, berpotensi besar terjadi gangguan atau bahkan kerusakan koneksi jaringan komputer.
+Hal ini rata - rata disebabkan banyaknya penggunaan serta padatnya traffic data dalam jaringan komputer itu sendiri.
+Oleh karena itu untuk menjaga bahkan meningkatkan kualitas layanan koneksi jaringan maka diperlukan adanya akses kontrol
+dan monitoring pada level administrator jaringan secara real-time berbasis mobile, yang dapat mengatur dan mengetahui
+informasi tentang koneksi jaringan dan dapat diakses setiap saat.
+Pihak administrator jaringan dituntut untuk terlebih dahulu mengetahui adanya gangguan atau bahkan terputusnya
+koneksi jaringan walaupun administrator tidak berada di tempat kontrol dan monitoring, Dengan adanya sistem kontrol dan
+monitoring berbasis mobile, diharapkan dapat membantu tugas administrator dalam mengontrol dan memantau jaringan serta
+dalam mengambil kebijakan atas node â node yang terkoneksi pada jaringan yakni memanajemen koneksi, port dan bandwidth
+setiap saat dan secara mobile. agar dengan segera dapat melakukan pembenahan ketika terjadi gangguan jaringan sebelum
+pemakai jaringan (klien) melakukan pengaduan atas adanya gangguan.
+Kata Kunci : Administrator Jaringan, Koneksi Jaringan, Akses Kontrol dan Monitoring."
+"RANCANG BANGUN APLIKASI PROXY SERVER UNTUK
+ENKRIPSI KODE HTML MENGGUNAKAN
+ALGORITMA BLOWFISH","Penulis : Akhmad Suyandi, S.Kom","Dosen Pembimbing I : Drs. Budi Soesilo, M.T","Dosen Pembimbing II :Hermawan, ST, MT","Web server adalah sebuah perangkat lunak server yang berfungsi
+menerima permintaan HTTP atau HTTPS dari web client dan
+mengirimkan jawaban dalam bentuk halaman-halaman web yang
+umumnya berbentuk dokumen HTML. Dokumen HTML yang dikirim
+merupakan dokumen yang dibentuk dari bahasa markup yang plaintext.
+Artinya, dokumen berisi kode-kode HTML murni tanpa proses enkripsi.
+Tujuan dari penelitan ini adalah membuat sebuah aplikasi proxy
+server yang menerima permintaan HTTP dari web client dan
+meneruskannya ke web server. Kemudian aplikasi ini akan menerima
+respon dari server dan melakukan proses enkripsi pada dokumen HTML
+terlebih dahulu. Sehingga dokumen HTML yang dikirim kepada web
+client sudah berbentuk dokumen HTML yang terenkripsi. Web client
+disini bisa berupa aplikasi seperti Internet Explorer, Mozilla Firefox,
+atau Opera. Aplikasi-aplikasi tersebut biasa dikenal dengan sebutan web
+browser.
+Ketika web browser menerima dokumen HTML yang terenkripsi
+dari aplikasi proxy server, maka JavaScript Engine yang ada di web
+browser akan melakukan proses dekripsi sekaligus rendering sehingga
+dokumen akan ditampilkan sesuai dengan aslinya. Namun apabila kode
+dari dokumen HTML tersebut dilihat melalui menu view source yang
+ada di web browser akan didapatkan dokumen HTML yang tetap
+terenkripsi."
+"SISTEM PENDUKUNG KEPUTUSAN OPTIMASI PENJADWALAN MATAKULIAH UNTUK PENGGUNAAN RUANGAN KULIAH BERSAMA DI UNIVERSITAS TRUNOJOYO MADURA MENGGUNAKAN ALGORITMA  
+GENETIKA",Penulis : Heri Supriyanto,"Dosen Pembimbing I : Mulaab, S.Si., M.Kom","Dosen Pembimbing II :Firli Irhamni, ST., M.Kom","Penjadwalan  kuliah  di  Perguruan  Tinggi  merupakan  masalah yang  kompleks.  Dalam  permasalahan tersebut  terdapat  beberapa variabel  yang  harus  dipertimbangkan  supaya  mendapatkan  jadwal  yang 
+optimal. Di dalam penyusunan jadwal kuliah ini terdapat sangat banyak kemungkinan  yang  selayaknya  dicoba  untuk  menemukan  penjadwalan yang  terbaik.  Karena  itu  dibutuhkan  metode  optimasi  yang  dapat diterapkan  untuk  mengerjakan  penjadwalan  mata  kuliah  ini.  Metode yang  dapat  digunakan  untuk  menyelesaikan  permasalahan  tersebut adalah  dengan  menggunakan  Algoritma  Genetika.  Tugas  Akhir  ini 
+bertujuan  untuk  membuat  suatu  sistem  yang  dapat  membuat  jadwal matakuliah  secara  otomatis  dan  hasilnya  optimal.  Dari  hasil  penelitian yang  dilakukan  algoritma  genetika  mampu  membuat  jadwal  dengan 
+optimal  yang  dibuktikan  dari  nilai  fitness  yang memiliki  nilai  1  secara otomatis  jadwal  yang  dibentuk  akan  optimal.  Semoga  adanya  aplikasi ini  diharapkan  bisa  mempermudah  didalam  pembuatan  penjadwalan 
+matakuliah dengan mudah dan cepat. 
+ 
+Kata Kunci: Algoritma Genetika, Optimasi,  Penjadwalan."
+SISTEM AUGMENTED REALITY ANIMASI BENDA BERGERAK MENGGUNAKAN FLARTOOLKIT,Penulis : Septian Rahman Hakim,"Dosen Pembimbing I : Arik Kurniawati, S.Kom., M.T.","Dosen Pembimbing II :Haryanto, S.T., M.T.","Seiring perkembangan teknologi yang ada didunia, muncul teknologi yang disebut augmented reality. Augmented Reality (AR) merupakan upaya untuk menggabungkan dunia maya dan dunia virtual yang dibuat melalui komputer sehingga batas antara keduanya menjadi sangat tipis. Head-Mounted Display (HMD) merupakan contoh hasil dari penelitian tentang Augmented Reality, ini merupakan satu-satunya peralatan dasar dalam teknologi-teknologi terbaru. Seiring berjalannya waktu, augmented reality berkembang pesat sehingga memungkinkan pengembangan aplikasi ini di berbagai bidang.
+
+Untuk mengembangkan AR banyak sekali library pendukung yang dapat digunakan. FlarToolKit adalah salah satunya. FlarToolKit merupakan library pendukung augmented reality pada platform flash.
+
+Berdasarkan sistem AR animasi benda bergerak yang dibuat adalah animasi bergerak permainan pingpong dimana telah dikolaborasikan dengan augmented reality untuk menggerakkan setiap langkah dari playernya. Interaksi antar obyek tersebut dapat dilihat dari gerak bola yang dapat dipukul dengan obyek virtual yang ditampilkan melalui augmented reality."
